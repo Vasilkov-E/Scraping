@@ -6,7 +6,7 @@ HEADERS = {
     'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
     'accept': '*/*'}
 
-LIST = ['смартфон']
+LIST = ['keywords']
 
 def get_html(url, params=None):
     if params:
